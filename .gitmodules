@@ -1,0 +1,3 @@
+[submodule "nzbn-ruby"]
+	path = nzbn-ruby
+	url = git@github.com:nnhansg/nzbn-ruby.git
